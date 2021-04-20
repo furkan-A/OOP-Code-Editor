@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: NewEmptyJUnitTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 6.402 s <<< FAILURE! - in NewEmptyJUnitTest
+NewEmptyJUnitTest.TestTxtOku  Time elapsed: 6.231 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Kelime NULL değil ==> expected: <null> but was: <[Ljava.lang.String;@18df8434>
+	at NewEmptyJUnitTest.TestTxtOku(NewEmptyJUnitTest.java:91)
+
+NewEmptyJUnitTest.TestMetniOku  Time elapsed: 0.058 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at NewEmptyJUnitTest.TestMetniOku(NewEmptyJUnitTest.java:81)
+

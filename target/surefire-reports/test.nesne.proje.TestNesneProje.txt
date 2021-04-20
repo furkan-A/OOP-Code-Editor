@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test.nesne.proje.TestNesneProje
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.092 s - in test.nesne.proje.TestNesneProje
